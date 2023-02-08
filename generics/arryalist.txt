@@ -1,0 +1,6 @@
+        list.add(45);
+        list.remove(0);
+        list.get(0);
+        list.set(1, 254);
+        list.size();
+        list.isEmpty();
